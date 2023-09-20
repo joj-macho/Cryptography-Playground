@@ -1,6 +1,6 @@
 # Cryptography-Playground
 
-Welcome to the Cryptography-Playground repository! This repository contains Python programs showcasing various cipher algorithms like Caesar, ROT13, Atbash, Hill, Vigenere, and more.
+Welcome to the Cryptography-Playground repository! This repository contains Python programs showcasing various cipher algorithms.
 
 
 # Programs  🚀
