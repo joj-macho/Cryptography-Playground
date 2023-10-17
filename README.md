@@ -3,7 +3,7 @@
 Welcome to the Cryptography-Playground repository! This repository contains Python programs showcasing various cipher algorithms.
 
 
-# Programs  🚀
+# Ciphers  🔐
 
 - [**program-1**](program-1/): Brief description of the cipher program and its functionality.
 
