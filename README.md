@@ -5,6 +5,8 @@ Welcome to the Cryptography-Playground repository! This repository contains Pyth
 
 # Ciphers  🔐
 
+Here are some of the cryptographic programs you can find in this repository:
+
 - [**Affine Cipher**](affine-cipher/): This program demonstrates the functionality of the Affine cipher.
 - [**Atbash Cipher**](atbash-cipher/): This program demonstrates the Atbash cipher and see how it works.
 - [**Caesar Cipher**](caesar-cipher/): This is the Caesar cipher program.
@@ -18,6 +20,7 @@ Welcome to the Cryptography-Playground repository! This repository contains Pyth
 - [**Substitution Cipher**](substitution-cipher/): This program showcases the Substitution cipher and its applications.
 - [**Vigenere Cipher**](vigenere-cipher/): This program demonstrates the Vigenere cipher.
 
+Each program comes with a brief description of the cipher and its functionality.
 
 ## Contribution Guidelines 🌟
 
