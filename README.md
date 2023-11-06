@@ -5,7 +5,18 @@ Welcome to the Cryptography-Playground repository! This repository contains Pyth
 
 # Ciphers  🔐
 
-- [**program-1**](program-1/): Brief description of the cipher program and its functionality.
+- [**Affine Cipher**](affine-cipher/): This program demonstrates the functionality of the Affine cipher.
+- [**Atbash Cipher**](atbash-cipher/): This program demonstrates the Atbash cipher and see how it works.
+- [**Caesar Cipher**](caesar-cipher/): This is the Caesar cipher program.
+- [**Columnar Transposition Cipher**](col-transposition-cipher/): Explore the Columnar Transposition cipher and its usage.
+- [**Hill Cipher**](hill-cipher/): Explore the Hill cipher program.
+- [**Playfair Cipher**](playfair-cipher/): Learn about the Playfair cipher and how it works.
+- [**Rail Fence Cipher**](rail-fence-cipher/): This program will help you understand the Rail Fence cipher and how it's implemented.
+- [**Reverse Cipher**](reverse-cipher): Take a look at the Reverse cipher and see how it's used for encryption.
+- [**ROT13 Cipher**](rot13-cipher/): Explore the ROT13 cipher, a simple and fascinating encryption method.
+- [**Route Cipher**](route-cipher/): Learn about the Route cipher and its intriguing encryption techniques.
+- [**Substitution Cipher**](substitution-cipher/): This program showcases the Substitution cipher and its applications.
+- [**Vigenere Cipher**](vigenere-cipher/): This program demonstrates the Vigenere cipher.
 
 
 ## Contribution Guidelines 🌟
